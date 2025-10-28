@@ -1,0 +1,5 @@
+Sprint,Pass Rate,Flaky Rate,Execution Time,Maintenance Time
+S-1,78,22,34,28
+S,86,15,33,25
+S+1,92,8,32,22
+S+2,95,4,31,21
