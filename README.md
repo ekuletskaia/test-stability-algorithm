@@ -22,7 +22,7 @@
 1. Установить зависимости:  
    `pip install -r env/requirements.txt`
 2. Настроить Appium-среду в соответствии с `env/appium_config.md`.
-3. Использовать шаблоны из `/code/` для реализации шагов алгоритма (листинги 1–3).
+3. Использовать шаблоны из `/code/` для реализации шагов алгоритма (листинги 1–2).
 4. Сравнить результаты с демонстрационными метриками из `/data/`.
 
 ### Лицензия
@@ -61,7 +61,7 @@ To reproduce the experiment steps:
 1. Install dependencies:  
    `pip install -r env/requirements.txt`
 2. Configure Appium as described in `env/appium_config.md`.
-3. Use code templates from `/code/` to implement the described algorithm (Listings 1–3).
+3. Use code templates from `/code/` to implement the described algorithm (Listings 1–2).
 4. Compare your results with demo datasets in `/data/`.
 
 ## License
