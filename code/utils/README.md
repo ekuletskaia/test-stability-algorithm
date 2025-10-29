@@ -1,10 +1,10 @@
-# reusable_wait_wrappers: Обёртки ожиданий
+# Обёртки ожиданий
 
 Данный раздел содержит примеры переиспользуемых явных ожиданий  
 для поиска и взаимодействия с элементами интерфейса (соответствует разделу 2.4.1 статьи).
 
 **Содержимое:**
-- `waits.py` — примеры функций (`wait_find_element`, `wait_and_click`, `wait_find_all_elements`);
+- `reusable_wait_wrappers.py` — примеры функций (`wait_find_element`, `wait_and_click`, `wait_find_all_elements`);
 - `scroll.py` — утилиты для прокрутки (раздел 2.4.3);
 - `retry_strategy.py` — пример механизма повторного запуска (раздел 2.4.7).
 
